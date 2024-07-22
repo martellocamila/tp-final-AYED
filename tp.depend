@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1717182211 source:c:\users\user\onedrive\desktop\facu\ayed\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+	"materia.h"
+	"materiaAprobada.h"
+	"estudiante.h"
+	"menu.h"
+
+1717267388 source:c:\users\user\onedrive\desktop\facu\ayed\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"estudiante.h"
+	"cola.h"
+	"menu.h"
+
+1716690183 source:c:\users\user\onedrive\desktop\facu\ayed\tp\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1716690122 c:\users\user\onedrive\desktop\facu\ayed\tp\nodo.h
+
+1717128611 source:c:\users\user\onedrive\desktop\facu\ayed\tp\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1717127103 c:\users\user\onedrive\desktop\facu\ayed\tp\lista.h
+	"nodo.h"
+
+1717182139 c:\users\user\onedrive\desktop\facu\ayed\tp\materia.h
+	"lista.h"
+	"cola.h"
+	"estudiante.h"
+
+1717267388 source:c:\users\user\onedrive\desktop\facu\ayed\tp\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"estudiante.h"
+	"materia.h"
+	"materiaAprobada.h"
+
+1717168545 c:\users\user\onedrive\desktop\facu\ayed\tp\estudiante.h
+	"lista.h"
+
+1717171908 source:c:\users\user\onedrive\desktop\facu\ayed\tp\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1717171758 c:\users\user\onedrive\desktop\facu\ayed\tp\cola.h
+	"lista.h"
+
+1717170094 source:c:\users\user\onedrive\desktop\facu\ayed\tp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1717099368 c:\users\user\onedrive\desktop\facu\ayed\tp\menu.h
+
+1717267434 source:c:\users\user\onedrive\desktop\facu\ayed\tp\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materiaAprobada.h"
+
+1717168762 c:\users\user\onedrive\desktop\facu\ayed\tp\materiaaprobada.h
+
